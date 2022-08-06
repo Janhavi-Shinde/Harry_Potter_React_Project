@@ -1,0 +1,125 @@
+{ 
+  "questions": [
+    {
+      "id": 1,
+      "question": "When was the first Harry Potter book released?",
+      "options": [
+        "1990",
+        "2014",
+        "1997",
+        "2000"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Who wrote Harry Potter?",
+      "options": [
+        "J.K Rowling",
+        "David Yates",
+        "Belinda Murrell",
+        "Rick Riordan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What house does Harry Potter belong to?",
+      "options": [
+        "Gryffindor",
+        "Ravenclaw",
+        "Hufflepuff",
+        "Slytherin"
+      ],
+      "correctIndex": 0,
+      "id": 4
+    },
+    {
+      "question": "What house does Hermione Granger belong to?",
+      "options": [
+        "Gryffindor",
+        "Ravenclaw",
+        "Hufflepuff",
+        "Slytherin"
+      ],
+      "correctIndex": 0,
+      "id": 5
+    },
+    {
+      "question": "What house does Draco Malfoy belong to?",
+      "options": [
+        "Gryffindor",
+        "Ravenclaw",
+        "Hufflepuff",
+        "Slytherin"
+      ],
+      "correctIndex": 3,
+      "id": 6
+    },
+    {
+      "question": "What house does Ron Weasley belong to?",
+      "options": [
+        "Gryffindor",
+        "Ravenclaw",
+        "Hufflepuff",
+        "Slytherin"
+      ],
+      "correctIndex": 0,
+      "id": 7
+    },
+    {
+      "question": "Harry's favourite color",
+      "options": [
+        "red",
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "correctIndex": 0,
+      "id": 8
+    },
+    {
+      "question": "What house does Draco Malfoy belong to?",
+      "options": [
+        "Gryffindor",
+        "Ravenclaw",
+        "Hufflepuff",
+        "Slytherin"
+      ],
+      "correctIndex": 3,
+      "id": 9
+    },
+    {
+      "question": "What house does Cedric Diggory belong to?",
+      "options": [
+        "Gryffindor",
+        "Ravenclaw",
+        "Hufflepuff",
+        "Slytherin"
+      ],
+      "correctIndex": 2,
+      "id": 10
+    },
+    {
+      "question": "What house does Harry Potter belong to?",
+      "options": [
+        "Gryffindor",
+        "Ravenclaw",
+        "Hufflepuff",
+        "Slytherin"
+      ],
+      "correctIndex": 0,
+      "id": 11
+    },
+    {
+      "question": "What house does Hermione Granger belong to?",
+      "options": [
+        "Gryffindor",
+        "Ravenclaw",
+        "Hufflepuff",
+        "Slytherin"
+      ],
+      "correctIndex": 0,
+      "id": 12
+    }
+  ]
+}

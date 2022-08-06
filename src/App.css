@@ -1,0 +1,97 @@
+.App{
+    margin: 0 auto;
+    max-width: 800px;
+    text-align:center;
+}
+
+.links { 
+    background-color: aliceblue;
+    width: fit-content;
+    text-align: center;
+    transform: translate(125%);
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    border-radius: 100px;
+}
+
+.QCard{
+    list-style-type: none;
+    display: grid;
+    grid-gap: 20px;
+    padding-inline-start: 0;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
+
+.individualQ { 
+padding-bottom: 2em;
+display: grid;
+    list-style-type: none;
+    background-color:darkkhaki;
+    border-radius: 3px;
+    padding: 18px 17px;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 0fr 0.5fr 0.5fr;
+    grid-row-gap: 10px;
+    grid-template-areas:
+        'question'
+        'label' 
+        'dropdown'
+        'delete';
+    text-align: left;
+    width: 300px;
+}
+
+.individualQ > h3 {
+    grid-area: question; 
+
+}
+
+.individualQ > label {
+    grid-area: label;
+    
+}
+
+.individualQ > select {
+    grid-area: dropdown;
+    width: 300px;
+    
+}
+
+
+#deleteButton { 
+    grid-area: delete;
+    width: 100px;
+    color:white;
+    background-color: brown;   
+    border-radius: 25px;
+    transform: translate(100px, 10px);
+}
+
+#quizNavbar { 
+    background-color: aliceblue;
+    width: fit-content;
+    transform: translateY(10%) translate(123%);
+    text-align: center;
+    
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    border-radius: 100px;
+
+}
+.homePage > ul {
+    list-style-type: none;
+}
+
+.answerButton > button {
+    background-color: aliceblue;
+    color:darkblue;
+    border-radius: 25px;
+}
+.answerButton {
+    line-height: 30px;
+    list-style-type: none;
+}

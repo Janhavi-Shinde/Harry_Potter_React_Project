@@ -1,0 +1,33 @@
+/* * {
+    background-color: red;
+} */
+
+.Box{
+    border-style: double;
+    border-width: 1em;
+    height: max-content;
+    
+}
+.Box > img {
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    }
+
+/* .red {
+    background-color:firebrick;
+}
+
+.yellow {
+    background-color: chocolate;
+
+}
+.blue {
+    background-color: midnightblue;
+
+}
+
+.green {
+background-color: darkgreen;
+} */
