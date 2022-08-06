@@ -1,4 +1,4 @@
-{ 
+{
   "questions": [
     {
       "id": 1,
@@ -100,26 +100,15 @@
       "id": 10
     },
     {
-      "question": "What house does Harry Potter belong to?",
+      "question": "What house does Luna belong to?",
       "options": [
-        "Gryffindor",
+        "Slytherin",
         "Ravenclaw",
-        "Hufflepuff",
-        "Slytherin"
+        "Gryffindor",
+        "Hufflepuff"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "id": 11
-    },
-    {
-      "question": "What house does Hermione Granger belong to?",
-      "options": [
-        "Gryffindor",
-        "Ravenclaw",
-        "Hufflepuff",
-        "Slytherin"
-      ],
-      "correctIndex": 0,
-      "id": 12
     }
   ]
 }
