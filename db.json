@@ -78,17 +78,6 @@
       "id": 8
     },
     {
-      "question": "What house does Draco Malfoy belong to?",
-      "options": [
-        "Gryffindor",
-        "Ravenclaw",
-        "Hufflepuff",
-        "Slytherin"
-      ],
-      "correctIndex": 3,
-      "id": 9
-    },
-    {
       "question": "What house does Cedric Diggory belong to?",
       "options": [
         "Gryffindor",
@@ -100,15 +89,15 @@
       "id": 10
     },
     {
-      "question": "What house does Luna belong to?",
+      "question": "hagrids house",
       "options": [
-        "Slytherin",
-        "Ravenclaw",
-        "Gryffindor",
-        "Hufflepuff"
+        "gryffindor",
+        "slytherin",
+        "hufflepuff",
+        "ravenclaw"
       ],
-      "correctIndex": 1,
-      "id": 11
+      "correctIndex": 0,
+      "id": 13
     }
   ]
 }
